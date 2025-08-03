@@ -1,4 +1,4 @@
-package leetcode.栈;
+package leetcode.栈.有效括号;
 
 import java.util.Stack;
 
