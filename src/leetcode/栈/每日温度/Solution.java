@@ -21,7 +21,7 @@ class Solution {
         }
         return result;
     }
-
+    //单调栈实现
     public int[] dailyTemperatures2(int[] temperatures) {
         int length = temperatures.length;
         int[] result = new int[length];
