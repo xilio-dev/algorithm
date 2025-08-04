@@ -1,7 +1,7 @@
 package leetcode.栈.字符串解码;
 
 import java.util.Stack;
-
+//双栈实现
 class Solution {
     public String decodeString(String s) {
         Stack<Integer> numStack = new Stack<>();
