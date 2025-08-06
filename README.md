@@ -32,8 +32,22 @@
 - [有效括号](src/leetcode/%E6%A0%88/%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7)
 - [柱状图中最大的矩形](src/leetcode/%E6%A0%88/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2)
 - [每日温度](src/leetcode/%E6%A0%88/%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6)
+
+## 堆
+- [数组中的第K个最大元素](src/leetcode/%E5%A0%86/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0)
 ## 动态规划
 - [杨辉三角](src/leetcode/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)
 
 ## 链表
 - [回文链表](src/leetcode/%E9%93%BE%E8%A1%A8/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8)
+
+## 子串
+- [和为K的子数组](src/leetcode/%E5%AD%90%E4%B8%B2/%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)
+
+## 前缀和
+- [和为K的子数组](src/leetcode/%E5%89%8D%E7%BC%80%E5%92%8C/%E5%92%8C%E4%B8%BAK%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)
+- [一维数组的动态和](src/leetcode/%E5%89%8D%E7%BC%80%E5%92%8C/%E4%B8%80%E7%BB%B4%E6%95%B0%E7%BB%84%E7%9A%84%E5%8A%A8%E6%80%81%E5%92%8C)
+- [找出中枢整数](src/leetcode/%E5%89%8D%E7%BC%80%E5%92%8C/%E6%89%BE%E5%87%BA%E4%B8%AD%E6%9E%A2%E6%95%B4%E6%95%B0)
+
+## 哈希表
+- [有效的字母异位词](src/leetcode/%E5%93%88%E5%B8%8C%E8%A1%A8/%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)
