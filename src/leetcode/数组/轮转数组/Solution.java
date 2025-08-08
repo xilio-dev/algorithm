@@ -1,5 +1,7 @@
 package leetcode.数组.轮转数组;
 
+import java.util.Stack;
+
 class Solution {
     public void rotate(int[] nums, int k) {
         int length = nums.length;
