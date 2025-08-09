@@ -1,6 +1,5 @@
 package leetcode.二叉树.二叉树的层平均值;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
