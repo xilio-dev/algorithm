@@ -1,6 +1,5 @@
 package leetcode.堆.前K个高频元素;
 
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.PriorityQueue;
