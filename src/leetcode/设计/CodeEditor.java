@@ -7,6 +7,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * 基于前缀树的代码编辑器代码提示
@@ -24,6 +25,7 @@ class TrieNode {
     }
 
     boolean isEnd() {
+
         return isEnd;
     }
 
